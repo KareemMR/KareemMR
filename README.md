@@ -1,4 +1,7 @@
-I am a Mechanical Engineer currently living in Egypt. My interests range from technology to design. I am also interested in Blogging, Python programming.
+I am a Mechanical Engineer graduated in Faculty of engineering, Zgazig university, Egypt.
+currently living in Egypt.
+
+My interests range from technology to design. I am also interested in Blogging, Python programming.
 
 Works as Mechanical site engineer in gas fields for Egyptian valves company "member of Egyptian petroleum institute"
 
